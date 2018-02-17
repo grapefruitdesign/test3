@@ -231,7 +231,7 @@ header h1 {
 	margin-top: -20rem;
 	height: 50rem;
 	z-index: 100;
-	padding-bottom: 7rem;
+	padding-bottom: 15rem;
 	}
 .box-d {
 	grid-column: 2/2 ;
@@ -254,6 +254,7 @@ header h1 {
 }
 	.box-c {
 	height: 45rem;
+	padding-bottom: 5rem;
 	}
 	#crew-section {
 	margin-top: 29rem;
