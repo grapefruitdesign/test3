@@ -45,7 +45,7 @@ body {
 .box-e {
 	grid-column: 3 ;
 	grid-row: 1/5 ;
-	background-image: url(../images/scorch2.png);
+	background-image: url(../images/scorch_large.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: left;
