@@ -44,11 +44,11 @@ body {
 }
 .box-e {
 	grid-column: 3 ;
-	grid-row: 1/4 ;
-	background-image: url(../images/scorch_large.png);
+	grid-row: 1/5 ;
+	background-image: url(../images/scorch_3.png);
 	background-repeat: no-repeat;
-	background-size: contain;
-	background-position: left;
+	background-size: cover;
+	margin-top: -30px;
 }
 .box-f {
 	grid-column: auto / span 2 ;
@@ -104,7 +104,7 @@ header h1 {
 	float: right;
 	width: 25%;
 	transform: rotate(-7deg);
-	margin: 30px 100px 0 0;
+	margin: 20px 40px 0 0;
 }
 
 /* Content */
