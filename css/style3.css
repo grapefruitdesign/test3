@@ -195,7 +195,7 @@ header h1 {
 	}
 	
 	#crew-section {
-		margin-top: 32rem;
+		margin-top: 38rem;
 	}
 	
 .rules img {
@@ -236,11 +236,13 @@ header h1 {
 .box-d {
 	grid-column: 2/2 ;
 	grid-row: 4 ;
+	margin-top: 5rem;
 }
 .box-e {
 	grid-column: 1/2 ;
 	grid-row: 4 ;
 	background-image: url(../images/);
+	margin-top: 3rem;
 }
 .box-f {
 	grid-column: auto / span 2 ;
@@ -254,7 +256,7 @@ header h1 {
 }
 	.box-c {
 	height: 45rem;
-	padding-bottom: 5rem;
+	padding-bottom: 2rem;
 	}
 	#crew-section {
 	margin-top: 29rem;
