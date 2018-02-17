@@ -155,15 +155,6 @@ footer, footer a {
 	text-decoration: none;
 	text-align: center;
 }
-@media only screen (min-width: 981px) and (max-width: 1400px) {
-.wrapper {
-	display: grid;
-	grid-template-columns: 30% 25% 45%;
-} 
-.circle {
-	float: right;
-	margin-left: 50px;
-} }
 @media only screen and (max-width: 980px) {
 .wrapper {
 	display: grid;
