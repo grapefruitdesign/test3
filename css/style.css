@@ -229,9 +229,9 @@ header h1 {
 	background-position: center;
 	background-repeat: no-repeat;
 	margin-top: -20rem;
-	height: 50rem;
+	height: 46rem;
 	z-index: 100;
-	padding-bottom: 15rem;
+	padding-bottom: 20rem;
 	}
 .box-d {
 	grid-column: 2/2 ;
